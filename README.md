@@ -20,6 +20,9 @@ Feel free to contribute !
     1. Cleaning Strings
     2. Tokenizing
     3. Lemmatization
+    4. Topic Modelling
+        * NMF
+        * LDA
 
 4. Scikit-Learn
     1. Preprocessing and Training with Pipelines
@@ -32,5 +35,12 @@ Feel free to contribute !
     1. Model Archtecture
     2. Training
     3. Predicting
-    4. Tensorboard Integration
-    5. Hyperparameter tuning with Ray
+    4. Loss and Accuracy Visualization
+    5. Tensorboard Integration
+    6. Hyperparameter tuning with Ray
+
+7. NetworkX
+    1. Local Summaries
+    2. Global Summaries
+    3. Visualization
+    4. Community Detection
